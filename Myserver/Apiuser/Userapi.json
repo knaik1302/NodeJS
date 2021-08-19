@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "name":"kartik",
+        "class":"5th B",
+        "age":21,
+        "Reg":75,
+        "Clg":"NMAM INSTITUTE OF TECHNOLOGY, NITTE"
+    },
+    {
+        "id":1,
+        "name":"naikkartik",
+        "class":"5th c",
+        "age":25,
+        "Reg":32,
+        "Clg":"NMAM INSTITUTE OF TECHNOLOGY, NITTE"
+    },
+    {
+        "id":3,
+        "name":"kartikvnaik",
+        "class":"5th E",
+        "age":20,
+        "Reg":18,
+        "Clg":"NMAM INSTITUTE OF TECHNOLOGY, NITTE"
+    }
+]
